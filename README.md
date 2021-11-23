@@ -1,2 +1,2 @@
 # Security-Tokens-2021
-University talk i made about security tokens
+University talk I made about Security Tokens
